@@ -1,6 +1,7 @@
 # Adwaita-Maia-Dark
-Dark variant of Adwaita-Maia theme, based on Adwaita and Evopop (for gnome-shell) themes.
-For some unknown reason is in conflict with the light version of Adwaita-Maia in gtk2 apps.
+Dark variant of Adwaita-Maia-gtk3  theme based on Adwaita and Evopop (for gnome-shell) themes. 
+For some unknown reason is in conflict with Adwaita-Maia-gtk3 theme in gtk2 apps. 
+So if you want this dark version you have to unistall Adwaita-maia-gtk3.
 
 --------------------------------------------------------------------------------------------
 
