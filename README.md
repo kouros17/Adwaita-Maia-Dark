@@ -1,5 +1,7 @@
 # Adwaita-Maia-Dark
-Dark variant of Adwaita-Maia theme
+Dark variant of Adwaita-Maia theme.
+
+Based on Adwaita and Evopop (for gnome-shell) themes.
 
 --------------------------------------------------------------------------------------------
 
