@@ -1,10 +1,10 @@
 [X-GNOME-Metatheme]
-Name=Dark-Adwaita-Maia
+Name=Adwaita-Maia-Dark
 Type=X-GNOME-Metatheme
-Comment=Dark Adwaita theme modified for Manjaro
+Comment=Adwaita-Dark theme modified for Manjaro
 Encoding=UTF-8
-GtkTheme=Dark-Adwaita-Maia
-MetacityTheme=Adwaita
+GtkTheme=Adwaita-Maia-Dark
+MetacityTheme=Adwaita-Dark
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24
